@@ -1,0 +1,29 @@
+{
+  "symbol": "BCLT",
+  "address": "0xE33EeF3ef4796bD9633D5DD8B9e8d500Eeb62d2D",
+  "overview":{
+        "en": "Token Description.",
+        "zh": "团队背景：
+BCL TOKEN 是 MCP万胜国际旗下多元化的交易平台 ERA Exchange，透过采取多中心式技术运作和区块链技术打造出来的国际通用代币，在全世界的发行量为300万枚。因此具有非常好的稀缺性、可靠性和安全性。得益于MCP万胜国际集团的强大实力和旗下市场分析系统MCP Analysis System的卓绝眼光与市场谈判实力，2018年，MCP万胜国际集团成功收购ERA Exchange。ERA Exchange是一个综合性多元化国际数字货币交易平台，通过多中心式技术运作，积极研究交易代币的开发，配合用户的增加与使用，驱动大数据的整合，透过开发区块链技术，并打造属于自己的加密货币交易代币 BCL TOKEN。"
+  },
+  "email": "Email",
+  "website": "https://your-awesome-project.com/",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://your-awesome-project.com/blog",
+    "twitter": "https://twitter.com/your-awesome-project",
+    "telegram": "https://t.me/joinchat/your-awesome-project",
+    "github": "https://github.com/your-awesome-project",
+    "facebook": "https://www.facebook.com/your-awesome-project",
+    "reddit": "https://www.reddit.com/r/your-awesome-project/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/your-awesome-project"
+  }
+}
